@@ -10,7 +10,7 @@ I'm still learning the main's gui module of it soooo... yeah).
 #### Some usefull links
 [Download][10]<br>
 [Main app github page][2]<br>
-[Discord][3] (For support or hust to chat :))<br>
+[Discord][3] (For support or to just chat :))<br>
 [Patreon][4] (The main dev's since its his project :P)
 
 
